@@ -17,6 +17,18 @@
       "userId": "u_demo",
       "question": "Explain Photosynthesis",
       "createdAt": 0
+    },
+    {
+      "id": "q_1758690264275",
+      "userId": "u1",
+      "question": "who is modi?",
+      "answerId": "a_1758690264275"
+    },
+    {
+      "id": "q_1758690279327",
+      "userId": "u1",
+      "question": "ss\n\n",
+      "answerId": "a_1758690279327"
     }
   ],
   "answers": [
@@ -32,15 +44,31 @@
           {
             "id": "ball1",
             "type": "circle",
-            "props": { "x": 100, "y": 150, "r": 16, "fill": "#3498db" },
+            "props": {
+              "x": 100,
+              "y": 150,
+              "r": 16,
+              "fill": "#3498db"
+            },
             "animations": [
-              { "property": "x", "from": 100, "to": 420, "start": 0, "end": 3000 }
+              {
+                "property": "x",
+                "from": 100,
+                "to": 420,
+                "start": 0,
+                "end": 3000
+              }
             ]
           },
           {
             "id": "arrow1",
             "type": "arrow",
-            "props": { "x": 90, "y": 150, "dx": 30, "dy": 0 },
+            "props": {
+              "x": 90,
+              "y": 150,
+              "dx": 30,
+              "dy": 0
+            },
             "animations": []
           }
         ]
@@ -56,8 +84,36 @@
         "duration": 6000,
         "fps": 30,
         "layers": [
-          { "id": "sun", "type": "circle", "props": { "x": 300, "y": 200, "r": 30, "fill": "#f39c12" }, "animations": [] },
-          { "id": "earth", "type": "circle", "props": { "x": 200, "y": 200, "r": 10, "fill": "#3498db" }, "animations": [{ "property": "orbit", "centerX": 300, "centerY": 200, "radius": 100, "duration": 6000 }] }
+          {
+            "id": "sun",
+            "type": "circle",
+            "props": {
+              "x": 300,
+              "y": 200,
+              "r": 30,
+              "fill": "#f39c12"
+            },
+            "animations": []
+          },
+          {
+            "id": "earth",
+            "type": "circle",
+            "props": {
+              "x": 200,
+              "y": 200,
+              "r": 10,
+              "fill": "#3498db"
+            },
+            "animations": [
+              {
+                "property": "orbit",
+                "centerX": 300,
+                "centerY": 200,
+                "radius": 100,
+                "duration": 6000
+              }
+            ]
+          }
         ]
       },
       "createdAt": 0
@@ -71,12 +127,103 @@
         "duration": 5000,
         "fps": 30,
         "layers": [
-          { "id": "sun", "type": "circle", "props": { "x": 80, "y": 80, "r": 18, "fill": "#f1c40f" }, "animations": [] },
-          { "id": "leaf", "type": "rect", "props": { "x": 300, "y": 200, "w": 140, "h": 80, "fill": "#2ecc71" }, "animations": [] },
-          { "id": "ray1", "type": "arrow", "props": { "x": 95, "y": 95, "dx": 160, "dy": 110 }, "animations": [] }
+          {
+            "id": "sun",
+            "type": "circle",
+            "props": {
+              "x": 80,
+              "y": 80,
+              "r": 18,
+              "fill": "#f1c40f"
+            },
+            "animations": []
+          },
+          {
+            "id": "leaf",
+            "type": "rect",
+            "props": {
+              "x": 300,
+              "y": 200,
+              "w": 140,
+              "h": 80,
+              "fill": "#2ecc71"
+            },
+            "animations": []
+          },
+          {
+            "id": "ray1",
+            "type": "arrow",
+            "props": {
+              "x": 95,
+              "y": 95,
+              "dx": 160,
+              "dy": 110
+            },
+            "animations": []
+          }
         ]
       },
       "createdAt": 0
+    },
+    {
+      "id": "a_1758690264275",
+      "text": "This is a placeholder explanation for: who is modi?",
+      "visualization": {
+        "id": "vis_1758690264275",
+        "duration": 4000,
+        "fps": 30,
+        "layers": [
+          {
+            "id": "circle1",
+            "type": "circle",
+            "props": {
+              "x": 100,
+              "y": 200,
+              "r": 20,
+              "fill": "#3498db"
+            },
+            "animations": [
+              {
+                "property": "x",
+                "from": 100,
+                "to": 400,
+                "start": 0,
+                "end": 3000
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "a_1758690279327",
+      "text": "This is a placeholder explanation for: ss\n\n",
+      "visualization": {
+        "id": "vis_1758690279327",
+        "duration": 4000,
+        "fps": 30,
+        "layers": [
+          {
+            "id": "circle1",
+            "type": "circle",
+            "props": {
+              "x": 100,
+              "y": 200,
+              "r": 20,
+              "fill": "#3498db"
+            },
+            "animations": [
+              {
+                "property": "x",
+                "from": 100,
+                "to": 400,
+                "start": 0,
+                "end": 3000
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

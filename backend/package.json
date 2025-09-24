@@ -1,7 +1,6 @@
 {
   "name": "chat-to-visualization-backend",
   "version": "1.0.0",
-  "description": "Backend for Chat-to-Visualization App",
   "type": "module",
   "main": "server.js",
   "scripts": {
@@ -11,10 +10,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.2",
-    "lowdb": "^3.0.0"
+    "lowdb": "^6.0.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
   }
 }
-
