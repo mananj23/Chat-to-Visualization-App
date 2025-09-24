@@ -67,14 +67,14 @@ An object remains at rest or in uniform motion unless acted upon by an external 
 
 ## Screenshots
 ### Base 
-![Base](./base.jpeg)
+![Base](https://github.com/mananj23/Chat-to-Visualization-App/blob/main/base.jpg)
 ### screenshot 1 
-![screenshot1](./screenshot1.jpeg)
+![screenshot1](https://github.com/mananj23/Chat-to-Visualization-App/blob/main/Screenshot1.jpg)
 
 ### screenshot 2 
-![screenshot2](./screenshot2.jpeg)
+![screenshot2](https://github.com/mananj23/Chat-to-Visualization-App/blob/main/Screenshot3.jpg)
 ### screenshot 3 
-![screenshot3](./screenshot3.jpeg)
+![screenshot3](https://github.com/mananj23/Chat-to-Visualization-App/blob/main/Screenshot2.jpg)
 
 
 
