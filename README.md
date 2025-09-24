@@ -22,4 +22,57 @@ cd ../frontend
 npm install
 npm start
 // Frontend runs on http://localhost:3000
+ ```
+## Example Demonstrations
+
+
+### Q: Explain Photosynthesis
+**Text Answer:**
+Photosynthesis is the process by which green plants use sunlight to convert carbon dioxide and water into glucose and oxygen.
+
+
+**Visualization:**
+- Sun shining on a leaf
+- Arrows showing CO₂ + H₂O going in
+- Arrow showing O₂ coming out
+
+
+---
+
+
+### Q: Explain the Solar System
+**Text Answer:**
+The Solar System consists of the Sun at the center with planets orbiting due to gravity.
+
+
+**Visualization:**
+- Yellow Sun in the center
+- Blue Earth orbiting around it
+
+
+---
+
+
+### Q: Explain Newton’s First Law of Motion
+**Text Answer:**
+An object remains at rest or in uniform motion unless acted upon by an external force.
+
+
+**Visualization:**
+- A ball moving straight
+- Arrow indicating applied force
+
+
+---
+
+
+## Fake Screenshot Example
+Below is a sample fake screenshot to demonstrate how the interface might look:
+
+
+![AIPrep Screenshot](./screenshot.png)
+
+
+---
+
 
