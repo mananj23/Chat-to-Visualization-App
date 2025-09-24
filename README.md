@@ -65,12 +65,18 @@ An object remains at rest or in uniform motion unless acted upon by an external 
 
 ---
 
+## Screenshots
+### Base 
+![screenshot1](./base.png)
+### screenshot 1 
+![screenshot1](./screenshot1.png)
 
-## Fake Screenshot Example
-Below is a sample fake screenshot to demonstrate how the interface might look:
+### screenshot 2 
+![screenshot1](./screenshot2.png)
+### screenshot 3 
+![screenshot1](./screenshot3.png)
 
 
-![AIPrep Screenshot](./screenshot.png)
 
 
 ---
