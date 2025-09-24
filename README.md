@@ -67,14 +67,14 @@ An object remains at rest or in uniform motion unless acted upon by an external 
 
 ## Screenshots
 ### Base 
-![screenshot1](./base.png)
+![screenshot1](./base.jpeg)
 ### screenshot 1 
-![screenshot1](./screenshot1.png)
+![screenshot1](./screenshot1.jpeg)
 
 ### screenshot 2 
-![screenshot1](./screenshot2.png)
+![screenshot1](./screenshot2.jpeg)
 ### screenshot 3 
-![screenshot1](./screenshot3.png)
+![screenshot1](./screenshot3.jpeg)
 
 
 
